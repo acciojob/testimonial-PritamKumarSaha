@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
-main{
+body{
 	background-color:#f5f5f5;
 	padding:16px;
+	border:1px solid dimgray;
 }
 div{
 	margin:16px;
