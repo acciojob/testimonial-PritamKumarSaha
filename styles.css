@@ -4,7 +4,7 @@ body{
 	padding:16px;
 	border:1px solid dimgray;
 }
-div{
+.div{
 	margin:16px;
 	background-color:white;
 /* 	items-align:center; */
